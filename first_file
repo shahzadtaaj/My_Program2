@@ -1,3 +1,5 @@
 Console.WriteLine("Shahzad");
 Console.WriteLine("24-ST-001");
+Console.WriteLine("EHS, Applied Physics, Islamiat, Additional MAth, Calculus")
 Console.WriteLine("Probability & Staticis,English , TQ, Software Development Life Cycle, Computer configuratuon, ");
+
